@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmet Koca\\Btk Akademi Unity ilr Oyun Kodlama\\Unity \u0130le E\u011Fitici Oyunlar\\FirstGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D44386C-0AFB-4A08-0BFD-E99A79DDE4CF}|Assembly-CSharp.csproj|c:\\users\\ahmet koca\\btk akademi unity ilr oyun kodlama\\unity \u0130le e\u011Fitici oyunlar\\firstgame\\assets\\scripts\\gamelevel\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D44386C-0AFB-4A08-0BFD-E99A79DDE4CF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamelevel\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D44386C-0AFB-4A08-0BFD-E99A79DDE4CF}|Assembly-CSharp.csproj|C:\\Users\\Ahmet Koca\\Btk Akademi Unity ilr Oyun Kodlama\\Unity \u0130le E\u011Fitici Oyunlar\\FirstGame\\assets\\scripts\\gamelevel\\puanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D44386C-0AFB-4A08-0BFD-E99A79DDE4CF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamelevel\\puanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D44386C-0AFB-4A08-0BFD-E99A79DDE4CF}|Assembly-CSharp.csproj|c:\\users\\ahmet koca\\btk akademi unity ilr oyun kodlama\\unity \u0130le e\u011Fitici oyunlar\\firstgame\\assets\\scripts\\gamelevel\\sonucmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D44386C-0AFB-4A08-0BFD-E99A79DDE4CF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamelevel\\sonucmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D44386C-0AFB-4A08-0BFD-E99A79DDE4CF}|Assembly-CSharp.csproj|C:\\Users\\Ahmet Koca\\Btk Akademi Unity ilr Oyun Kodlama\\Unity \u0130le E\u011Fitici Oyunlar\\FirstGame\\assets\\scripts\\gamelevel\\kalanhaklar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D44386C-0AFB-4A08-0BFD-E99A79DDE4CF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamelevel\\kalanhaklar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D44386C-0AFB-4A08-0BFD-E99A79DDE4CF}|Assembly-CSharp.csproj|C:\\Users\\Ahmet Koca\\Btk Akademi Unity ilr Oyun Kodlama\\Unity \u0130le E\u011Fitici Oyunlar\\FirstGame\\assets\\scripts\\gamelevel\\alphapanelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D44386C-0AFB-4A08-0BFD-E99A79DDE4CF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamelevel\\alphapanelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D44386C-0AFB-4A08-0BFD-E99A79DDE4CF}|Assembly-CSharp.csproj|C:\\Users\\Ahmet Koca\\Btk Akademi Unity ilr Oyun Kodlama\\Unity \u0130le E\u011Fitici Oyunlar\\FirstGame\\assets\\scripts\\menulevel\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D44386C-0AFB-4A08-0BFD-E99A79DDE4CF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menulevel\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SonucManager.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Koca\\Btk Akademi Unity ilr Oyun Kodlama\\Unity \u0130le E\u011Fitici Oyunlar\\FirstGame\\Assets\\Scripts\\GameLevel\\SonucManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameLevel\\SonucManager.cs",
+              "ToolTip": "C:\\Users\\Ahmet Koca\\Btk Akademi Unity ilr Oyun Kodlama\\Unity \u0130le E\u011Fitici Oyunlar\\FirstGame\\Assets\\Scripts\\GameLevel\\SonucManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameLevel\\SonucManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T18:19:50.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PuanManager.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Koca\\Btk Akademi Unity ilr Oyun Kodlama\\Unity \u0130le E\u011Fitici Oyunlar\\FirstGame\\Assets\\Scripts\\GameLevel\\PuanManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameLevel\\PuanManager.cs",
+              "ToolTip": "C:\\Users\\Ahmet Koca\\Btk Akademi Unity ilr Oyun Kodlama\\Unity \u0130le E\u011Fitici Oyunlar\\FirstGame\\Assets\\Scripts\\GameLevel\\PuanManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameLevel\\PuanManager.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwB4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T19:37:06.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KalanHaklar.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Koca\\Btk Akademi Unity ilr Oyun Kodlama\\Unity \u0130le E\u011Fitici Oyunlar\\FirstGame\\Assets\\Scripts\\GameLevel\\KalanHaklar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameLevel\\KalanHaklar.cs",
+              "ToolTip": "C:\\Users\\Ahmet Koca\\Btk Akademi Unity ilr Oyun Kodlama\\Unity \u0130le E\u011Fitici Oyunlar\\FirstGame\\Assets\\Scripts\\GameLevel\\KalanHaklar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameLevel\\KalanHaklar.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAswB8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T19:11:34.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Koca\\Btk Akademi Unity ilr Oyun Kodlama\\Unity \u0130le E\u011Fitici Oyunlar\\FirstGame\\Assets\\Scripts\\GameLevel\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameLevel\\GameManager.cs",
+              "ToolTip": "C:\\Users\\Ahmet Koca\\Btk Akademi Unity ilr Oyun Kodlama\\Unity \u0130le E\u011Fitici Oyunlar\\FirstGame\\Assets\\Scripts\\GameLevel\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameLevel\\GameManager.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAgwF4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T12:02:47.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AlphaPanelManager.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Koca\\Btk Akademi Unity ilr Oyun Kodlama\\Unity \u0130le E\u011Fitici Oyunlar\\FirstGame\\Assets\\Scripts\\GameLevel\\AlphaPanelManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameLevel\\AlphaPanelManager.cs",
+              "ToolTip": "C:\\Users\\Ahmet Koca\\Btk Akademi Unity ilr Oyun Kodlama\\Unity \u0130le E\u011Fitici Oyunlar\\FirstGame\\Assets\\Scripts\\GameLevel\\AlphaPanelManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameLevel\\AlphaPanelManager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T11:44:48.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuManager.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Koca\\Btk Akademi Unity ilr Oyun Kodlama\\Unity \u0130le E\u011Fitici Oyunlar\\FirstGame\\Assets\\Scripts\\MenuLevel\\MenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MenuLevel\\MenuManager.cs",
+              "ToolTip": "C:\\Users\\Ahmet Koca\\Btk Akademi Unity ilr Oyun Kodlama\\Unity \u0130le E\u011Fitici Oyunlar\\FirstGame\\Assets\\Scripts\\MenuLevel\\MenuManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MenuLevel\\MenuManager.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAswBMAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T11:26:58.711Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1498,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
