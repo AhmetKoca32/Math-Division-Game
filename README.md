@@ -1,2 +1,2 @@
 # Math-Division-Game
-A game that aims to explain division to children.
+The aim of our game is to teach division to children who are just learning how to do division by making mathematics fun. When our game is first opened, the operation appears at the top of the screen and numbers appear at the bottom. With each correct operation, the number is replaced by a shape and a new question appears. In this way, the game continues until all the boxes below are in shape. After all the boxes are in shape, we are given two options: return to the main menu or start over, the situation continues depending on this choice.
